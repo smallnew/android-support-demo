@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".RecyleFragment1">
+    <item android:id="@+id/action_appbar" android:title="@string/action_appbar"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_percent" android:title="@string/action_percent"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_textinput" android:title="@string/action_textinput"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_palette" android:title="@string/action_palette"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_theme" android:title="@string/action_theme"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

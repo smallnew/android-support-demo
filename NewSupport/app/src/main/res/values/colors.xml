@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F9948</color>
+    <color name="colorPrimaryDark">#30DF9F</color>
+    <color name="colorAccent">#409091</color>
+    <color name="colorTextP">#FFF</color>
+    <color name="colorTextS">#AAA</color>
+    <color name="colorBackgound">#FFF</color>
+    <color name="colorNavBar">#7cadd052</color>
+
+
+    <color name="dcolorPrimary">#104b24</color>
+    <color name="dcolorPrimaryDark">#2c9a72</color>
+    <color name="dcolorAccent">#295a5b</color>
+    <color name="dcolorTextP">#BBB</color>
+    <color name="dcolorTextS">#777</color>
+    <color name="dcolorBackgound">#999</color>
+    <color name="dcolorNavBar">#7cadd052</color>
+</resources>
