@@ -18,8 +18,17 @@
 		NestedScrollView 新的ScrollView，使用BeHavier，交互性更强
 		Snackbar 类似Toast，有action，不会一直弹
 
-		![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic1.jpg)
-		![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic2.jpg)
-		![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic3.jpg)
-		![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic4.jpg)
-		![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic5.jpg)
+![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic1.jpg)
+  
+
+![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic2.jpg)
+  
+
+![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic3.jpg)
+   
+
+![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic4.jpg)
+  
+
+![image](https://github.com/smallnew/android-support-demo/raw/master/pics/pic5.jpg)
+  
